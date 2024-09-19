@@ -1,2 +1,5 @@
 streamlit
+langchain
 openai
+langchain-openai
+langchain-core
