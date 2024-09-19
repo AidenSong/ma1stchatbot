@@ -3,3 +3,10 @@ langchain
 openai
 langchain-openai
 langchain-core
+
+
+#streamlit - 웹 어플리케이션을 개발하는데 필요
+#langchain - AI 모델과의 상호작용을 위한 체인관리
+#openai - OpenAI API를 통한 GPT 모델 접근
+#langchain-openai - Langchain에서 OpenAI 모델을  사용할 때 필요
+#langchain-core - Langchain 기본 구성 요소들.
